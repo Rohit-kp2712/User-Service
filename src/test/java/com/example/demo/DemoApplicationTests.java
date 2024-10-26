@@ -14,7 +14,7 @@ class DemoApplicationTests {
 	
 	@Test
 	void contextLoads() {
-		logger.info("Test Case executed");
+		logger.info("Test Case executed2");
 		assertEquals(true, true);
 		
 	}
